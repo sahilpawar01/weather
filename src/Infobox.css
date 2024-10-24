@@ -1,0 +1,11 @@
+.infobox
+{
+    text-align: center;
+    align-content: center;
+}
+
+.cardcontent
+{
+    display: flex;
+    justify-content: center;
+}
